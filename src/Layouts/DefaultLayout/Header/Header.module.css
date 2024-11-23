@@ -1,0 +1,13 @@
+.header {
+  background-color: rgba(100, 116, 139, 1);
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  line-height: 0;
+  height: max-content;
+  justify-content: flex-end;
+}
+
+.headerAvatar {
+  border-radius: 50%;
+}

@@ -1,0 +1,16 @@
+.sidebar {
+  padding: 10px;
+}
+
+.logoText {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.sidebarMenu {
+  background-color: inherit;
+  margin-top: 3rem;
+  border-inline-end: none !important;
+  font-size: 2rem;
+}
